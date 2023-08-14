@@ -1,0 +1,49 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.jumbotron {
+    background-image: url(img/bg-destination.jpg);
+     background-attachment: fixed;
+    background-size: cover;
+    height: 450px;
+    background-position: 0 -100px;
+}
+
+ hr{
+    width: 250px;
+    border-top: 4px solid #999;
+} 
+
+.navbar  {
+    color: white;
+}
+.navbar-brand > img {
+    width: 50px;
+    height: 60px;
+}
+
+section {
+    min-height: 600px;
+    /* border: 2px solid black; */
+}
+
+.portfolio{
+    background-color: #e9ecef;
+}
+
+
+.footer {
+    background-color: #37474F;
+    padding: 20px 0;
+    color: white;
+}
+
+.nambah{
+    background-color: #e9ecef;
+}
+
+.jumbotron >h1,p{
+    color: white;
+}
+
